@@ -1,5 +1,5 @@
+title: "needno test title at the top"
 defaults:
-  title: "needno test title at the top"
   -
     scope:
       path: "" # an empty string here means all files in the project
