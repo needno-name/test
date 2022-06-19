@@ -1,8 +1,9 @@
 defaults:
+  title: "needno test title at the top"
   -
     scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-      title: "nnedno test site"
+      title: "needno test title in scope"
       author: "needno-name"
