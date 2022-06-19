@@ -1,3 +1,3 @@
-# test readme
+# test readme ({{ site.title }})
 ee
 2
