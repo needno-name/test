@@ -6,3 +6,4 @@
 ee
 
 {{ page.author }}
+{{ site.github.contributors }}
