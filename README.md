@@ -1,12 +1,7 @@
 ---
-"og:site_name": needno test
+title: needno test
 ---
 
 # test
 ee
-
-{{ page.author }}
-{{ site.github.contributors }}
-{{ og:site_name }}
-{{ "og:site_name" }}
 
