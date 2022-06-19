@@ -1,7 +1,0 @@
-#title: "needno test title at the top"
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      author: "needno-name"
